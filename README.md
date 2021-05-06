@@ -1,3 +1,11 @@
+# About
+
+bar code generation app
+
+packages used-
+ngx-barcode
+
+
 # BarCode
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.

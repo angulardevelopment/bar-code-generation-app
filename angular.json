@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "bar-code"
+  "defaultProject": "bar-code",
+  "cli": {
+    "analytics": "f33c77e4-46db-436a-ad22-a9d8f310b8a5"
+  }
 }
