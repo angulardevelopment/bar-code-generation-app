@@ -1,7 +1,7 @@
 # About
 
 bar code generation app
-
+generate different types of bar code, 
 packages used-
 ngx-barcode
 
